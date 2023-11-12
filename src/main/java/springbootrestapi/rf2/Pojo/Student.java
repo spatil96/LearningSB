@@ -1,4 +1,4 @@
-package Pojo;
+package springbootrestapi.rf2.Pojo;
 
 public class Student
 {
